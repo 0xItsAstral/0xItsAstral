@@ -50,3 +50,5 @@
 <img src="https://raw.githubusercontent.com/0xItsAstral/0xItsAstral/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- next-turn -->
